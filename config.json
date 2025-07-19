@@ -1,6 +1,6 @@
 {
-    "source_dir": "/Users/brandon_le/Downloads/test",
-    "backup_dir": "/Users/brandon_le/Downloads/backuptest",
+    "source_dir": "/Users/yourname/Documents/source",
+    "backup_dir": "/Users/yourname/Documents/backups",
     "include_extensions": [
         ".txt",
         ".jpg",
