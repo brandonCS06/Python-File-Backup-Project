@@ -1,0 +1,11 @@
+{
+    "source_dir": "/Users/brandon_le/Downloads/test",
+    "backup_dir": "/Users/brandon_le/Downloads/backuptest",
+    "include_extensions": [
+        ".txt",
+        ".jpg",
+        ".docx"
+    ],
+    "max_backup_versions": 5,
+    "schedule": "18:00"
+}
