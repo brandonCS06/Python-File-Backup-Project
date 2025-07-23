@@ -10,10 +10,11 @@ def start_schedule(config):
     schedule.every().day.at(schedule_time).do(run_backup,config)
 
     logger.info(f"Scheduled daily backup at {schedule_time}")
-
+    print("Schedule backups running. Press Ctrl+C to stop.")
     try:
         while True:
             schedule.run_pending()
             time.sleep(60)
     except KeyboardInterrupt:
         logger.info("Backup scheduler stopped by user")
+    
