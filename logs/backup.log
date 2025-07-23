@@ -6,3 +6,53 @@
 2025-07-15 14:04:29,063 - INFO - Starting backup...
 2025-07-15 14:04:29,064 - INFO - Backed up: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
 2025-07-15 14:04:29,065 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250715_145M29.zip
+2025-07-19 23:28:28,247 - INFO - Starting backup...
+2025-07-19 23:30:34,998 - INFO - Starting backup...
+2025-07-19 23:30:35,000 - INFO - Backed up: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
+2025-07-19 23:30:35,000 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250719_235M34.zip
+2025-07-19 23:33:25,750 - INFO - Starting backup...
+2025-07-19 23:33:25,752 - INFO - Backed up: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
+2025-07-19 23:33:25,753 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250719_235M25.zip
+2025-07-19 23:33:36,259 - INFO - Starting backup...
+2025-07-19 23:33:36,262 - INFO - Backed up: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
+2025-07-19 23:33:36,263 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250719_235M36.zip
+2025-07-19 23:33:38,152 - INFO - Starting backup...
+2025-07-19 23:33:38,154 - INFO - Backed up: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
+2025-07-19 23:33:38,155 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250719_235M38.zip
+2025-07-19 23:33:42,365 - INFO - Starting backup...
+2025-07-19 23:33:42,368 - INFO - Backed up: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
+2025-07-19 23:33:42,368 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250719_235M42.zip
+2025-07-19 23:33:43,893 - INFO - Starting backup...
+2025-07-19 23:33:43,895 - INFO - Backed up: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
+2025-07-19 23:33:43,895 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250719_235M43.zip
+2025-07-19 23:33:43,896 - INFO - Deleted old backup: backup_20250719_235M25.zip
+2025-07-19 23:35:22,498 - INFO - Scheduled daily backup at 23:33
+2025-07-19 23:40:44,973 - INFO - Scheduled daily backup at 23:41
+2025-07-19 23:41:44,975 - INFO - Starting backup...
+2025-07-19 23:41:44,978 - INFO - Backed up: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
+2025-07-19 23:41:44,979 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250719_235M44.zip
+2025-07-23 15:50:03,575 - INFO - Scheduled daily backup at 15:51
+2025-07-23 15:51:03,577 - INFO - Starting backup...
+2025-07-23 15:51:03,581 - INFO - Backed up: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
+2025-07-23 15:51:03,581 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250723_155M03.zip
+2025-07-23 15:51:29,814 - INFO - Starting backup...
+2025-07-23 15:51:29,816 - INFO - Backed up: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
+2025-07-23 15:51:29,817 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250723_155M29.zip
+2025-07-23 15:52:34,537 - INFO - Starting backup...
+2025-07-23 15:52:34,539 - INFO - Backed up: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
+2025-07-23 15:52:34,540 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250723_155M34.zip
+2025-07-23 15:55:28,352 - INFO - Starting backup...
+2025-07-23 15:55:28,354 - INFO - Backed up: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
+2025-07-23 15:55:28,354 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250723_155M28.zip
+2025-07-23 15:56:38,223 - INFO - Starting backup...
+2025-07-23 15:56:38,225 - INFO - Backed up: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
+2025-07-23 15:56:38,226 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250723_155M38.zip
+2025-07-23 15:56:40,075 - INFO - Scheduled daily backup at 15:58
+2025-07-23 15:58:40,080 - INFO - Starting backup...
+2025-07-23 15:58:40,083 - INFO - Backed up: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
+2025-07-23 15:58:40,083 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250723_155M40.zip
+2025-07-23 15:59:53,818 - INFO - Backup scheduler stopped by user
+2025-07-23 16:01:41,452 - INFO - Scheduled daily backup at 15:58
+2025-07-23 16:01:46,307 - INFO - Backup scheduler stopped by user
+2025-07-23 16:02:14,041 - INFO - Scheduled daily backup at 15:58
+2025-07-23 16:02:17,284 - INFO - Backup scheduler stopped by user

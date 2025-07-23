@@ -6,13 +6,14 @@ def create_Config():
     print("Enter backup configuration:")
     source_dir = input("Enter the full path to the source folder: ").strip()
     backup_dir = input("Enter the full path to the backup destination folder: ").strip()
-
+    scheduleSet = input("Set automatic backup schedule (24 Hour Time): ").strip()
+    maxBackups = int(input("Enter the max amount of backups: ").strip())
     config = {
         "source_dir": source_dir,
         "backup_dir": backup_dir,
         "include_extensions": [".txt",".jpg",".docx"],
-        "max_backup_versions": 5,
-        "schedule": "18:00"
+        "max_backup_versions": maxBackups,
+        "schedule": scheduleSet
     }
 
     with open("config.json","w") as f:
@@ -34,10 +35,10 @@ def main():
         print("\n Choose an option:")
         print("1. Run manual backup")
         print("2. Start scheduled backups")
-        print("3. Change config")
+        print("3. Change configuration")
         print("4. Exit")
 
-        choice = input("Enter choice (1/2/3): ").strip()
+        choice = input("Enter choice (1/2/3/4): ").strip()
 
         if choice == "1":
             run_backup(config)

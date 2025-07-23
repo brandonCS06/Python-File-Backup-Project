@@ -6,6 +6,6 @@
         ".jpg",
         ".docx"
     ],
-    "max_backup_versions": 5,
-    "schedule": "18:00"
+    "max_backup_versions": 7,
+    "schedule": "15:58"
 }
