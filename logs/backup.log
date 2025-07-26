@@ -56,3 +56,112 @@
 2025-07-23 16:01:46,307 - INFO - Backup scheduler stopped by user
 2025-07-23 16:02:14,041 - INFO - Scheduled daily backup at 15:58
 2025-07-23 16:02:17,284 - INFO - Backup scheduler stopped by user
+2025-07-26 16:33:28,882 - INFO - Starting backup...
+2025-07-26 17:08:35,727 - INFO - Starting backup...
+2025-07-26 17:08:35,730 - INFO - Backed up: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
+2025-07-26 17:08:35,731 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250726_175M35.zip
+2025-07-26 17:08:35,732 - INFO - Deleted old backup: backup_20250719_235M44.zip
+2025-07-26 17:08:35,734 - INFO - Deleted old backup: backup_20250723_155M03.zip
+2025-07-26 17:08:35,735 - INFO - Deleted old backup: backup_20250723_155M28.zip
+2025-07-26 17:08:41,131 - INFO - Starting backup...
+2025-07-26 17:08:41,133 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250726_175M41.zip
+2025-07-26 17:08:41,134 - INFO - Deleted old backup: backup_20250723_155M29.zip
+2025-07-26 17:08:46,853 - INFO - Starting backup...
+2025-07-26 17:08:46,854 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250726_175M46.zip
+2025-07-26 17:08:46,856 - INFO - Deleted old backup: backup_20250723_155M34.zip
+2025-07-26 17:09:02,904 - INFO - Starting backup...
+2025-07-26 17:09:02,906 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250726_175M02.zip
+2025-07-26 17:09:40,364 - INFO - Starting backup...
+2025-07-26 17:09:40,366 - INFO - Backed up: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
+2025-07-26 17:09:40,367 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250726_175M40.zip
+2025-07-26 17:14:14,663 - INFO - Starting backup...
+2025-07-26 17:14:14,724 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250726_175M14.zip
+2025-07-26 17:14:17,186 - INFO - Starting backup...
+2025-07-26 17:14:17,188 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250726_175M17.zip
+2025-07-26 17:22:29,711 - INFO - Starting backup...
+2025-07-26 17:22:29,713 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250726_172229.zip
+2025-07-26 17:22:37,694 - INFO - Starting backup...
+2025-07-26 17:22:37,696 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250726_172237.zip
+2025-07-26 17:25:54,343 - INFO - Starting backup...
+2025-07-26 17:25:54,344 - INFO - Skipped unchanged file: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
+2025-07-26 17:25:54,345 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250726_172554.zip
+2025-07-26 17:26:03,033 - INFO - Starting backup...
+2025-07-26 17:26:03,034 - INFO - Skipped unchanged file: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
+2025-07-26 17:26:03,035 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250726_172603.zip
+2025-07-26 17:26:05,081 - INFO - Starting backup...
+2025-07-26 17:26:05,082 - INFO - Skipped unchanged file: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
+2025-07-26 17:26:05,082 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250726_172605.zip
+2025-07-26 17:26:06,244 - INFO - Starting backup...
+2025-07-26 17:26:06,246 - INFO - Skipped unchanged file: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
+2025-07-26 17:26:06,246 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250726_172606.zip
+2025-07-26 17:26:06,247 - INFO - Deleted old backup: backup_20250726_172229.zip
+2025-07-26 17:29:22,358 - INFO - Starting backup...
+2025-07-26 17:29:22,359 - INFO - Skipped unchanged file: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
+2025-07-26 17:29:22,360 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250726_172922.zip
+2025-07-26 17:29:24,567 - INFO - Starting backup...
+2025-07-26 17:29:24,568 - INFO - Skipped unchanged file: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
+2025-07-26 17:29:24,568 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250726_172924.zip
+2025-07-26 17:32:37,280 - INFO - Starting backup...
+2025-07-26 17:32:37,281 - INFO - Checking file: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx | Modified: 2025-07-26 17:09:32.616023 | Last backup: 2025-07-26 17:29:24.569392
+2025-07-26 17:32:37,281 - INFO - Skipped unchanged file: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
+2025-07-26 17:32:37,281 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250726_173237.zip
+2025-07-26 17:41:40,288 - INFO - Starting backup...
+2025-07-26 17:41:40,290 - INFO - Checking file: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx | Modified: 2025-07-26 17:09:32.616023 | Last backup: 2025-07-26 17:32:37.282337
+2025-07-26 17:41:40,290 - INFO - Skipped unchanged file: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
+2025-07-26 17:41:40,290 - INFO - No files changed since last backup
+2025-07-26 17:41:56,338 - INFO - Starting backup...
+2025-07-26 17:41:56,338 - INFO - Checking file: /Users/brandon_le/Downloads/test/~$ Class Winter Assignment.docx | Modified: 2025-07-26 17:41:49.645975 | Last backup: 2025-07-26 17:32:37.282337
+2025-07-26 17:41:56,339 - INFO - Checking file: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx | Modified: 2025-07-26 17:09:32.616023 | Last backup: 2025-07-26 17:32:37.282337
+2025-07-26 17:41:56,339 - INFO - Skipped unchanged file: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
+2025-07-26 17:41:56,340 - INFO - Backed up: /Users/brandon_le/Downloads/test/~$ Class Winter Assignment.docx
+2025-07-26 17:41:56,340 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250726_174156.zip
+2025-07-26 17:42:08,818 - INFO - Starting backup...
+2025-07-26 17:42:08,818 - INFO - Checking file: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx | Modified: 2025-07-26 17:09:32.616023 | Last backup: 2025-07-26 17:41:56.340883
+2025-07-26 17:42:08,819 - INFO - Skipped unchanged file: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
+2025-07-26 17:42:08,819 - INFO - No files changed since last backup
+2025-07-26 17:42:26,990 - INFO - Starting backup...
+2025-07-26 17:42:26,990 - INFO - Checking file: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx | Modified: 2025-07-26 17:42:24.686172 | Last backup: 2025-07-26 17:41:56.340883
+2025-07-26 17:42:26,992 - INFO - Backed up: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
+2025-07-26 17:42:26,992 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250726_174226.zip
+2025-07-26 17:42:36,438 - INFO - Starting backup...
+2025-07-26 17:42:36,438 - INFO - Checking file: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx | Modified: 2025-07-26 17:42:24.686172 | Last backup: 2025-07-26 17:42:26.993361
+2025-07-26 17:42:36,438 - INFO - Skipped unchanged file: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
+2025-07-26 17:42:36,438 - INFO - No files changed since last backup
+2025-07-26 17:42:38,663 - INFO - Starting backup...
+2025-07-26 17:42:38,664 - INFO - Checking file: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx | Modified: 2025-07-26 17:42:24.686172 | Last backup: 2025-07-26 17:42:26.993361
+2025-07-26 17:42:38,664 - INFO - Skipped unchanged file: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
+2025-07-26 17:42:38,664 - INFO - No files changed since last backup
+2025-07-26 17:42:48,615 - INFO - Starting backup...
+2025-07-26 17:42:48,616 - INFO - Checking file: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx | Modified: 2025-07-26 17:42:24.686172 | Last backup: 2025-07-26 17:42:26.993361
+2025-07-26 17:42:48,616 - INFO - Skipped unchanged file: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
+2025-07-26 17:42:48,616 - INFO - No files changed since last backup
+2025-07-26 17:42:50,320 - INFO - Starting backup...
+2025-07-26 17:42:50,320 - INFO - Checking file: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx | Modified: 2025-07-26 17:42:24.686172 | Last backup: 2025-07-26 17:42:26.993361
+2025-07-26 17:42:50,320 - INFO - Skipped unchanged file: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
+2025-07-26 17:42:50,321 - INFO - No files changed since last backup
+2025-07-26 17:43:21,951 - INFO - Starting backup...
+2025-07-26 17:43:21,951 - INFO - Checking file: /Users/brandon_le/Downloads/test/Intro and Conclusion Paragraphs 4.08.25.docx | Modified: 2025-04-08 15:41:30.699845 | Last backup: 2025-07-26 17:42:26.993361
+2025-07-26 17:43:21,951 - INFO - Skipped unchanged file: /Users/brandon_le/Downloads/test/Intro and Conclusion Paragraphs 4.08.25.docx
+2025-07-26 17:43:21,952 - INFO - Checking file: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx | Modified: 2025-07-26 17:42:24.686172 | Last backup: 2025-07-26 17:42:26.993361
+2025-07-26 17:43:21,952 - INFO - Skipped unchanged file: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
+2025-07-26 17:43:21,952 - INFO - No files changed since last backup
+2025-07-26 17:43:29,589 - INFO - Starting backup...
+2025-07-26 17:43:29,590 - INFO - Checking file: /Users/brandon_le/Downloads/test/Intro and Conclusion Paragraphs 4.08.25.docx | Modified: 2025-04-08 15:41:30.699845 | Last backup: 2025-07-26 17:42:26.993361
+2025-07-26 17:43:29,590 - INFO - Skipped unchanged file: /Users/brandon_le/Downloads/test/Intro and Conclusion Paragraphs 4.08.25.docx
+2025-07-26 17:43:29,590 - INFO - Checking file: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx | Modified: 2025-07-26 17:42:24.686172 | Last backup: 2025-07-26 17:42:26.993361
+2025-07-26 17:43:29,590 - INFO - Skipped unchanged file: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
+2025-07-26 17:43:29,590 - INFO - No files changed since last backup
+2025-07-26 17:43:49,332 - INFO - Starting backup...
+2025-07-26 17:43:49,333 - INFO - Checking file: /Users/brandon_le/Downloads/test/Intro and Conclusion Paragraphs 4.08.25.docx | Modified: 2025-04-08 15:41:30.699845 | Last backup: 2025-07-26 17:42:26.993361
+2025-07-26 17:43:49,333 - INFO - Skipped unchanged file: /Users/brandon_le/Downloads/test/Intro and Conclusion Paragraphs 4.08.25.docx
+2025-07-26 17:43:49,333 - INFO - Checking file: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx | Modified: 2025-07-26 17:42:24.686172 | Last backup: 2025-07-26 17:42:26.993361
+2025-07-26 17:43:49,333 - INFO - Skipped unchanged file: /Users/brandon_le/Downloads/test/In Class Winter Assignment.docx
+2025-07-26 17:43:49,333 - INFO - No files changed since last backup
+2025-07-26 17:44:19,618 - INFO - Starting backup...
+2025-07-26 17:44:19,618 - INFO - Checking file: /Users/brandon_le/Downloads/test/Intro and Conclusion Paragraphs 4.08.25.docx | Modified: 2025-04-08 15:41:30.699845 | Last backup: 2025-07-26 17:42:26.993361
+2025-07-26 17:44:19,618 - INFO - Skipped unchanged file: /Users/brandon_le/Downloads/test/Intro and Conclusion Paragraphs 4.08.25.docx
+2025-07-26 17:44:19,618 - INFO - No files changed since last backup
+2025-07-26 17:44:34,957 - INFO - Starting backup...
+2025-07-26 17:44:34,957 - INFO - Checking file: /Users/brandon_le/Downloads/test/Intro and Conclusion Paragraphs 4.08.25.docx | Modified: 2025-07-26 17:44:32.748459 | Last backup: 2025-07-26 17:42:26.993361
+2025-07-26 17:44:34,958 - INFO - Backed up: /Users/brandon_le/Downloads/test/Intro and Conclusion Paragraphs 4.08.25.docx
+2025-07-26 17:44:34,958 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250726_174434.zip
