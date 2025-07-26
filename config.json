@@ -1,11 +1,12 @@
 {
-    "source_dir": "/Users/yourname/Downloads/source",
-    "backup_dir": "/Users/brandon_le/Downloads/backup",
+    "source_dir": "/Users/brandon_le/Documents/test",
+    "backup_dir": "/Users/brandon_le/Documents/backuptest",
     "include_extensions": [
         ".txt",
         ".jpg",
         ".docx"
     ],
     "max_backup_versions": 5,
-    "schedule": "15:00"
+    "schedule": "18:00"
 }
+
