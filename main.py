@@ -3,9 +3,19 @@ import os
 from backup import run_backup
 from scheduler import start_schedule
 def create_Config():
+    from validate import validate_Path, validate_FileExtension
+
     print("Enter backup configuration:")
     source_dir = input("Enter the full path to the source folder: ").strip()
     backup_dir = input("Enter the full path to the backup destination folder: ").strip()
+    #validate paths during configuration creation#
+    try:
+        source_dir = validate_Path(source_dir)
+        backup_dir = validate_Path(backup_dir)
+    except ValueError as e:
+        print(f"Invalid path: {e}")
+        return create_Config() #Retry config process#
+    
     scheduleSet = input("Set automatic backup schedule (24 Hour Time): ").strip()
     maxBackups = int(input("Enter the max amount of backups: ").strip())
     config = {
@@ -19,6 +29,13 @@ def create_Config():
     with open("config.json","w") as f:
         json.dump(config,f,indent = 4)
     print("Config is saved to config.json")
+
+    try:
+        for ext in [".txt",".jpg",".docx"]:
+            validate_FileExtension(ext)
+    except ValueError as e:
+        print(f"Invalid file extension: {e}")
+        return create_Config() #Retry config process#
     return config
 
 def load_Config():
