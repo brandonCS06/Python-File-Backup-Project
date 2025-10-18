@@ -165,3 +165,51 @@
 2025-07-26 17:44:34,957 - INFO - Checking file: /Users/brandon_le/Downloads/test/Intro and Conclusion Paragraphs 4.08.25.docx | Modified: 2025-07-26 17:44:32.748459 | Last backup: 2025-07-26 17:42:26.993361
 2025-07-26 17:44:34,958 - INFO - Backed up: /Users/brandon_le/Downloads/test/Intro and Conclusion Paragraphs 4.08.25.docx
 2025-07-26 17:44:34,958 - INFO - Backup completed: /Users/brandon_le/Downloads/backuptest/backup_20250726_174434.zip
+2025-10-18 16:55:37,402 - ERROR - Validation error: Invalid path: potential directory traversal
+2025-10-18 16:55:37,403 - INFO - Deleted old backup: backup_20240101_120000.zip
+2025-10-18 16:55:37,403 - INFO - Deleted old backup: backup_20240101_120001.zip
+2025-10-18 16:55:37,403 - ERROR - Validation error: Invalid path: potential directory traversal
+2025-10-18 16:56:19,784 - INFO - Path and extensions validation passed
+2025-10-18 16:56:19,784 - INFO - Starting backup...
+2025-10-18 16:56:19,784 - INFO - Checking file: /var/folders/hj/wfhvn0r95f108vxq49j0px400000gn/T/backup_test_8070851w/source/test1.txt | Modified: 2025-10-18 16:56:19.782223 | Last backup: 2025-07-26 17:44:34.959192
+2025-10-18 16:56:19,784 - INFO - Checking file: /var/folders/hj/wfhvn0r95f108vxq49j0px400000gn/T/backup_test_8070851w/source/test2.jpg | Modified: 2025-10-18 16:56:19.782300 | Last backup: 2025-07-26 17:44:34.959192
+2025-10-18 16:56:19,784 - INFO - Checking file: /var/folders/hj/wfhvn0r95f108vxq49j0px400000gn/T/backup_test_8070851w/source/test3.docx | Modified: 2025-10-18 16:56:19.782370 | Last backup: 2025-07-26 17:44:34.959192
+2025-10-18 16:56:19,784 - INFO - Checking file: /var/folders/hj/wfhvn0r95f108vxq49j0px400000gn/T/backup_test_8070851w/source/subfolder/test4.txt | Modified: 2025-10-18 16:56:19.782486 | Last backup: 2025-07-26 17:44:34.959192
+2025-10-18 16:56:19,784 - INFO - Checking file: /var/folders/hj/wfhvn0r95f108vxq49j0px400000gn/T/backup_test_8070851w/source/subfolder/test5.jpg | Modified: 2025-10-18 16:56:19.782560 | Last backup: 2025-07-26 17:44:34.959192
+2025-10-18 16:56:19,784 - INFO - Backed up: /var/folders/hj/wfhvn0r95f108vxq49j0px400000gn/T/backup_test_8070851w/source/test1.txt
+2025-10-18 16:56:19,784 - INFO - Backed up: /var/folders/hj/wfhvn0r95f108vxq49j0px400000gn/T/backup_test_8070851w/source/test2.jpg
+2025-10-18 16:56:19,784 - INFO - Backed up: /var/folders/hj/wfhvn0r95f108vxq49j0px400000gn/T/backup_test_8070851w/source/test3.docx
+2025-10-18 16:56:19,784 - INFO - Backed up: /var/folders/hj/wfhvn0r95f108vxq49j0px400000gn/T/backup_test_8070851w/source/subfolder/test4.txt
+2025-10-18 16:56:19,784 - INFO - Backed up: /var/folders/hj/wfhvn0r95f108vxq49j0px400000gn/T/backup_test_8070851w/source/subfolder/test5.jpg
+2025-10-18 16:56:19,784 - INFO - Backup completed: /var/folders/hj/wfhvn0r95f108vxq49j0px400000gn/T/backup_test_8070851w/backup/backup_20251018_165619.zip
+2025-10-18 16:56:19,785 - INFO - Encrypted backup: /var/folders/hj/wfhvn0r95f108vxq49j0px400000gn/T/backup_test_8070851w/backup/backup_20251018_165619.zip.enc
+2025-10-18 16:56:19,785 - INFO - Deleted old backup: backup_20240101_120000.zip
+2025-10-18 16:56:19,785 - INFO - Deleted old backup: backup_20240101_120001.zip
+2025-10-18 16:56:19,785 - INFO - Path and extensions validation passed
+2025-10-18 16:56:19,786 - INFO - Starting backup...
+2025-10-18 16:56:19,786 - INFO - No files changed since last backup
+2025-10-18 16:56:46,700 - INFO - Path and extensions validation passed
+2025-10-18 16:56:46,700 - INFO - Starting backup...
+2025-10-18 16:56:46,700 - INFO - Checking file: /var/folders/hj/wfhvn0r95f108vxq49j0px400000gn/T/backup_test_yjotbs96/source/test1.txt | Modified: 2025-10-18 16:56:46.698219 | Last backup: 2025-10-18 16:56:19.785373
+2025-10-18 16:56:46,700 - INFO - Checking file: /var/folders/hj/wfhvn0r95f108vxq49j0px400000gn/T/backup_test_yjotbs96/source/test2.jpg | Modified: 2025-10-18 16:56:46.698299 | Last backup: 2025-10-18 16:56:19.785373
+2025-10-18 16:56:46,700 - INFO - Checking file: /var/folders/hj/wfhvn0r95f108vxq49j0px400000gn/T/backup_test_yjotbs96/source/test3.docx | Modified: 2025-10-18 16:56:46.698367 | Last backup: 2025-10-18 16:56:19.785373
+2025-10-18 16:56:46,700 - INFO - Checking file: /var/folders/hj/wfhvn0r95f108vxq49j0px400000gn/T/backup_test_yjotbs96/source/subfolder/test4.txt | Modified: 2025-10-18 16:56:46.698476 | Last backup: 2025-10-18 16:56:19.785373
+2025-10-18 16:56:46,700 - INFO - Checking file: /var/folders/hj/wfhvn0r95f108vxq49j0px400000gn/T/backup_test_yjotbs96/source/subfolder/test5.jpg | Modified: 2025-10-18 16:56:46.698544 | Last backup: 2025-10-18 16:56:19.785373
+2025-10-18 16:56:46,700 - INFO - Backed up: /var/folders/hj/wfhvn0r95f108vxq49j0px400000gn/T/backup_test_yjotbs96/source/test1.txt
+2025-10-18 16:56:46,700 - INFO - Backed up: /var/folders/hj/wfhvn0r95f108vxq49j0px400000gn/T/backup_test_yjotbs96/source/test2.jpg
+2025-10-18 16:56:46,700 - INFO - Backed up: /var/folders/hj/wfhvn0r95f108vxq49j0px400000gn/T/backup_test_yjotbs96/source/test3.docx
+2025-10-18 16:56:46,700 - INFO - Backed up: /var/folders/hj/wfhvn0r95f108vxq49j0px400000gn/T/backup_test_yjotbs96/source/subfolder/test4.txt
+2025-10-18 16:56:46,700 - INFO - Backed up: /var/folders/hj/wfhvn0r95f108vxq49j0px400000gn/T/backup_test_yjotbs96/source/subfolder/test5.jpg
+2025-10-18 16:56:46,700 - INFO - Backup completed: /var/folders/hj/wfhvn0r95f108vxq49j0px400000gn/T/backup_test_yjotbs96/backup/backup_20251018_165646.zip
+2025-10-18 16:56:46,701 - INFO - Encrypted backup: /var/folders/hj/wfhvn0r95f108vxq49j0px400000gn/T/backup_test_yjotbs96/backup/backup_20251018_165646.zip.enc
+2025-10-18 16:56:46,701 - INFO - Deleted old backup: backup_20240101_120000.zip.enc
+2025-10-18 16:56:46,701 - INFO - Deleted old backup: backup_20240101_120001.zip.enc
+2025-10-18 16:56:46,701 - INFO - Deleted old backup: backup_20240101_120002.zip.enc
+2025-10-18 16:56:46,701 - INFO - Path and extensions validation passed
+2025-10-18 16:56:46,701 - INFO - Starting backup...
+2025-10-18 16:56:46,701 - INFO - No files changed since last backup
+2025-10-18 16:56:56,611 - INFO - Path and extensions validation passed
+2025-10-18 16:56:56,612 - INFO - Starting backup...
+2025-10-18 16:56:58,844 - INFO - Checking file: /Users/brandon_le/Documents/test/Intro and Conclusion Paragraphs 4.08.25.docx | Modified: 2025-07-26 17:44:32.748459 | Last backup: 2025-10-18 16:56:46.701063
+2025-10-18 16:56:58,844 - INFO - Skipped unchanged file: /Users/brandon_le/Documents/test/Intro and Conclusion Paragraphs 4.08.25.docx
+2025-10-18 16:56:58,844 - INFO - No files changed since last backup

@@ -7,6 +7,8 @@
         ".docx"
     ],
     "max_backup_versions": 5,
-    "schedule": "18:00"
+    "schedule": "18:00",
+    "encryption": true,
+    "encryption_key": "backup_key.key"
 }
 
